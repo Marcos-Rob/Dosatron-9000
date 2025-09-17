@@ -32,7 +32,7 @@ Sistema de análise de dados científicos desenvolvido em Python com interface g
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seuusuario/dosatron-9000.git
+git clone https://github.com/Marcos-Rob/Dosatron-9000.git
 cd dosatron-9000
 ```
 2.**Instale as dependências:**
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 3. **Execute o programa:**
 ```bash
-python origin_2.py
+python Dosatron_9000.py
 ```
 
 ## Instalação manual das dependências
